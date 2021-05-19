@@ -7,7 +7,7 @@
   
 <h1>Lord Gaben</h1>
 
-<center><img src ="gaben.jpg" alt = picture not available width = "1280" height = "720"></center>
+<center><img src ="https://i.redd.it/4hbhprnqjb631.jpg" alt = 502 Bad Gateway, The Lord Picture Couldn't Be Found  width = "1280" height = "720"></center>
 
 <p><b><i>Gabe Newell</i></b> Co-Founded and is the President of <b>Valve Corp,</b> a video game developer, publisher, and also the creator of game distribution platform<a href="https://store.steampowered.com/">  <b>Steam</b> </a></p></center>
 
@@ -33,5 +33,4 @@
 </head>
 </body>
 
-#need the css file to make this work
-
+<need the css file to make this work
